@@ -18,6 +18,16 @@ GPIO.setmode(GPIO.BOARD) #NUMERAZIONE CON NUM PIEDINO
 GPIO.setwarnings(False)
 
 
+#lista colori cavi
+#EnA = bianco
+#In1 = verde
+#In2 = Blu
+
+#In3=Viola
+#In4= grigio
+#EnB= Nero
+
+
 # Set variables for the GPIO motor pins
 #int enA = 11;
 enA = board.get_pin('d:11:o')
