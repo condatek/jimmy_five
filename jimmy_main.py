@@ -19,13 +19,13 @@ GPIO.setwarnings(False)
 
 
 #lista colori cavi
-#EnA = bianco
-#In1 = verde
-#In2 = Blu
+#EnA = rosso
+#In1 = arancio
+#In2 = nero
 
-#In3=Viola
+#In3=bianco
 #In4= grigio
-#EnB= Nero
+#EnB= bordo'
 
 
 # Set variables for the GPIO motor pins
